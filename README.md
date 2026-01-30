@@ -1,6 +1,7 @@
 # Features of this DesiPayPos Web Application:
+
 ![Dark](Dark.png)
-![Light](Dark.png)
+![Light](Light.png)
 
 1. Responsive Design - Works perfectly on all screen sizes from mobile to desktop
 2. Dark/Light Mode Toggle - Switch between themes with a single click
